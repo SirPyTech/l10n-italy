@@ -10,6 +10,7 @@
 # Odoo Italia Modules
 
 Addons concerning Odoo Italian Localization.
+try OCAbot
 
 <!-- /!\ do not modify below this line -->
 
